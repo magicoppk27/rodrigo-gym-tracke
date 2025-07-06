@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rodrigo-gym-tracke/static/css/main.0d9fa786.css",
+    "main.js": "/rodrigo-gym-tracke/static/js/main.a52dc5fa.js",
+    "static/js/453.07360003.chunk.js": "/rodrigo-gym-tracke/static/js/453.07360003.chunk.js",
+    "index.html": "/rodrigo-gym-tracke/index.html",
+    "main.0d9fa786.css.map": "/rodrigo-gym-tracke/static/css/main.0d9fa786.css.map",
+    "main.a52dc5fa.js.map": "/rodrigo-gym-tracke/static/js/main.a52dc5fa.js.map",
+    "453.07360003.chunk.js.map": "/rodrigo-gym-tracke/static/js/453.07360003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d9fa786.css",
+    "static/js/main.a52dc5fa.js"
+  ]
+}
